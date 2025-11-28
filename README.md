@@ -23,6 +23,7 @@ Proficient in Lua, Luau, JavaScript, Python, Swift/Xcode
 ![](https://img.shields.io/badge/GoogleGemini-8E75B2?logo=googlegemini&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Markdown-242424?logo=markdown&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
