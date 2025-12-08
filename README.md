@@ -6,8 +6,10 @@ Proficient in Lua, Luau, JavaScript, Python, Swift/Xcode
 ---
 
 ## 🔥 Favorite Project
-- **Oversight AI**  
+- **Workforce Focus**  
   <sub>*Ask me about it!*</sub>
+- **Games**  
+  <sub>*A games hosting website.*</sub>
 
 ---
 
