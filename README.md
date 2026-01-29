@@ -1,15 +1,16 @@
 # Hi, I'm Ananta the Developer 👋
 
 **Aspiring Full Stack Developer & Current Student**  
-Proficient in Lua, Luau, JavaScript, Python, Swift/Xcode
+Proficient in Lua, Luau, JavaScript, Python, Swift/Xcode.
+Founder of Chicagoland's Golden Corridor of Computer Science and Engineering.
 
 ---
 
-## 🔥 Favorite Project
-- **Workforce Focus**  
-  <sub>*Ask me about it!*</sub>
-- **Games**  
-  <sub>*A games hosting website.*</sub>
+## 🔥 Favorite Organizations
+- **Hack Club**  
+  <sub>*Interested in Software Development, Hardware Creation, Computer Science, Game Development, or More? Ask me about Hack Club!*</sub>
+- **FIRST**  
+  <sub>*FIRST is for Robotics*</sub>
 
 ---
 
