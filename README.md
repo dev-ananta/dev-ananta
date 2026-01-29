@@ -57,8 +57,8 @@ Founder of Chicagoland's Golden Corridor of Computer Science and Engineering.
 
 [![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/yourID)
 [![](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:ananta.dev@proton.me)
-[![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/operativescriptos)
-[![](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@rip_scriptos)
+<!-- [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/aparikh1) -->
+<!-- [![](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@rip_scriptos) -->
 [![](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Scriptos14)
 
 ---
