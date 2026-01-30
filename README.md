@@ -46,10 +46,10 @@ Founder of Chicagoland's Golden Corridor of Computer Science and Engineering.
 ## 😄 About Me:
 - Pronouns: He/Him/His
 - Relationship Status: Single
-- Aspiring Industry: Computer Science & Business
+- Aspiring Industry: Computer Science/Software Engineering & Business
 - Achievements: National Junior Honor Society Membership Certificate
 - Awards: United States of America President's Education Awards Program Outstanding Academic Excellence Award
-- Merit: Investment Club President, Art Club Co-Founder, World History Club Co-Founder, DECA Member, & FTC Team Member.
+- Merit: Founder of the GCCSE (Chicagoland's Golden Corridor of Computer Science and Engineering)
 
 ---
 
@@ -57,9 +57,9 @@ Founder of Chicagoland's Golden Corridor of Computer Science and Engineering.
 
 [![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/yourID)
 [![](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:ananta.dev@proton.me)
-<!-- [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/aparikh1) -->
-<!-- [![](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@rip_scriptos) -->
-[![](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Scriptos14)
+[![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_aparikh1)
+[![](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@InscriptedGP9P)
+<!-- [![](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Scriptos14) -->
 
 ---
 
