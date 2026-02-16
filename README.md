@@ -55,19 +55,7 @@ Founder of Chicagoland's Golden Corridor of Computer Science and Engineering.
 
 ## 📬 Connect With Me
 
-[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/yourID)
+[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1144988617115181066)
 [![](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:ananta.dev@proton.me)
 [![](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_aparikh1)
 [![](https://img.shields.io/badge/Youtube-FF0033?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@InscriptedGP9P)
-<!-- [![](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/Scriptos14) -->
-
----
-
-### Cards:
-![](https://github-readme-stats.hackclub.dev/api/wakatime?username=26751&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
-
-<a href="https://hackatime.hackclub.com/@Dev-Ananta"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26751&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Statistics"/></a>
-
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677e9dc970129741a84c35db?variant=dark" alt="roadmap.sh"/></a>
-
-<a href="https://app.daily.dev/inscripted"><img src="https://api.daily.dev/devcards/v2/Gz8LHL027RcngI0aL4C8M.png?type=default&r=lhq" width="356" alt="Inscripted's Dev Card"/></a>
