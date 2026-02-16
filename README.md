@@ -64,6 +64,9 @@ Founder of Chicagoland's Golden Corridor of Computer Science and Engineering.
 ---
 
 ### Cards:
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=26751&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+<a href="https://hackatime.hackclub.com/@Dev-Ananta"><img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26751&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Hackatime Statistics"/></a>
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677e9dc970129741a84c35db?variant=dark" alt="roadmap.sh"/></a>
 
