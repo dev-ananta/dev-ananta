@@ -8,7 +8,7 @@ Founder of the **Golden Corridor of Computer Science and Engineering (GCCSE)** i
 ## 😄 About Me
 
 - Pronouns: He/Him/His
-- Relationship Status: Single
+- Current Work: Solo-Developer
 - Aspiring Industry: Computer Engineering & Business
 
 ---
