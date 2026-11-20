@@ -9,7 +9,7 @@ Founder of the **Golden Corridor of Computer Science and Engineering (GCCSE)** i
 
 - Pronouns: He/Him/His
 - Current Work: Solo-Developer
-- Aspiring Industry: Computer Engineering & Business
+- Aspiring Industry: Computer Engineering & Entrepreneurship
 
 ---
 
@@ -78,10 +78,8 @@ Founder of the **Golden Corridor of Computer Science and Engineering (GCCSE)** i
 
 ---
 
-## 📬 Connect With Me
+## 📬 Reach Out & See My Work
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1144988617115181066)
 [![Email](https://img.shields.io/badge/Email-8B89CC?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:ananta.dev@proton.me)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/_aparikh1)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0033?logo=youtube&logoColor=white&style=for-the-badge)](https://youtube.com/@InscriptedGP9P)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/dev-ananta)
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?logo=itch.io&logoColor=white&style=for-the-badge)](https://dev-ananta.itch.io)
